@@ -1,0 +1,1 @@
+# cartastrunfo02.c
